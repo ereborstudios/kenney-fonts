@@ -2,6 +2,8 @@
 
 > Collection of various fonts, both pixel and vector based.
 
+![Preview](https://raw.githubusercontent.com/ereborstudios/kenney-fonts/main/preview.png)
+
 Includes:
 
 * Kenney Blocks
@@ -15,8 +17,6 @@ Includes:
 * Kenney Pixel Square
 * Kenney Rocket
 * Kenney Rocket Square
-
-![Preview](https://raw.githubusercontent.com/ereborstudios/kenney-fonts/main/preview.png)
 
 This package uses assets used under the creative commons license from [kenney.nl](https://kenney.nl/assets/kenney-fonts).
 
